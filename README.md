@@ -6,6 +6,8 @@
 
 [React Router](https://reacttraining.com/react-router/)
 
+[Axios](https://github.com/axios/axios)
+
 [SuperAgent](https://visionmedia.github.io/superagent/)
 
 [NSSM](http://nssm.cc/)
