@@ -13,3 +13,7 @@
 [SuperAgent](https://visionmedia.github.io/superagent/)
 
 [NSSM](http://nssm.cc/)
+
+[Easyicon](https://www.easyicon.net/)
+
+[Unsplash](https://unsplash.com/)
