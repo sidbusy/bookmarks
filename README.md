@@ -8,6 +8,8 @@
 
 [React Router](https://reacttraining.com/react-router/)
 
+[Create React App](https://facebook.github.io/create-react-app/)
+
 [Axios](https://github.com/axios/axios)
 
 [SuperAgent](https://visionmedia.github.io/superagent/)
