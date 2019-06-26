@@ -6,6 +6,8 @@
 
 [Immutable.js](https://github.com/immutable-js/immutable-js)
 
+[Immer](https://github.com/immerjs/immer)
+
 [React Router](https://reacttraining.com/react-router/)
 
 [Create React App](https://facebook.github.io/create-react-app/)
