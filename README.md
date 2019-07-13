@@ -1,5 +1,7 @@
 # Bookmarks
 
+[Storing UUID Values in MySQL](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/)
+
 [Google Style Guides](https://google.github.io/styleguide/)
 
 [RE2 Syntax](https://github.com/google/re2/wiki/Syntax)
