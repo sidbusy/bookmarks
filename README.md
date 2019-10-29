@@ -1,14 +1,10 @@
 # Bookmarks
 
-[Storing UUID Values in MySQL](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/)
-
-[Google Style Guides](https://google.github.io/styleguide/)
+### 技术文档
 
 [RE2 Syntax](https://github.com/google/re2/wiki/Syntax)
 
-[Immutable.js](https://github.com/immutable-js/immutable-js)
-
-[Immer](https://github.com/immerjs/immer)
+[Immer](https://immerjs.github.io/immer/)
 
 [React Router](https://reacttraining.com/react-router/)
 
@@ -20,8 +16,14 @@
 
 [NSSM](http://nssm.cc/)
 
-[Easyicon](https://www.easyicon.net/)
+### 技术文章
+
+[Storing UUID Values in MySQL](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/)
+
+[sku组合查询算法探索](http://git.shepherdwind.com/sku-search-algorithm.html)
+
+### 设计资源
 
 [Unsplash](https://unsplash.com/)
 
-[sku组合查询算法探索](http://git.shepherdwind.com/sku-search-algorithm.html)
+[Easyicon](https://www.easyicon.net/)
