@@ -23,3 +23,5 @@
 [Easyicon](https://www.easyicon.net/)
 
 [Unsplash](https://unsplash.com/)
+
+[sku组合查询算法探索](http://git.shepherdwind.com/sku-search-algorithm.html)
